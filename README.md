@@ -12,6 +12,7 @@ To install Ontodia-WLKG, you can use npm:
 
 ```bash
 npm install ontodia-wlkg
+```
 
 If you use the Ontodia-WLKG library in your projects, please provide a link to this repository in your publication and a citation reference to the following paper:
 
